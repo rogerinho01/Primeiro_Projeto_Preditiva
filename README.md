@@ -1,7 +1,7 @@
 # Introdução
 Este projeto serve como ilutração do curso da Preditiva de como trabalhar com versionamento de projetos com Git e GitHub.
 
-# Obgetivos
+# Objetivos
 
  * Aprender usar VS Code
  * Aprender usar VS Git
@@ -9,4 +9,4 @@ Este projeto serve como ilutração do curso da Preditiva de como trabalhar com 
  * Aprender sobre documentação
 
  # Contato
- email: rogerinho.01@gmail.com
+ email: rogerinho.01@gmail.com   
